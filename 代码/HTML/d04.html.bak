@@ -1,0 +1,39 @@
+<!doctype html5>
+<html>
+	<head>
+		<meta charset='utf-8'>
+		<title>我的第一个网页博客</title>
+	</head>
+	<body style='background-color:#ABCDEF'>
+		<h3>个人博客</h3>
+		<hr>
+		星期一&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;星期二
+		星期三&lt;&gt;&copy;&yen;星期四
+		<hr>
+		<b>粗体</b><i>斜体</i>
+		<hr>
+		<s>我是带删除线的文本</s>
+		<u>我是带下划线的文本</u>
+		<sup>我是上标</sup>
+		<sub>我是下标</sub>
+		<hr>
+		我是一段带有文本<b>加粗</b>，<i>倾斜</i>，<s>删除线</s>，<u>下划线</u>，<sup>上标</sup>，<sub>下标</sub>的文本。
+		<hr>
+		<span>人工智能</span>
+		<hr>
+		<span style='font-family:arial;color:red;font-size:20px'>人工智能</span>
+		<b style='font-family:arial;color:red;font-size:20px'>大数据</b>
+		
+		<hr style='background-color:red;width:800px;height:5px;border:none'>
+		<h1>一级标题</h1>
+		<h2 align='center'>二级标题</h2>
+		<h3>三级标题</h3>
+		<h4>四级标题</h4>
+		<h5>五级标题</h5>
+		<h6>六级标题</h6>
+		<p>大亨年就是能够暗示经过为三不带卡金士顿安居客少年宫in阿斯达就看撒谎当阿卡丽客观看了阿拉丁卡看帅哥自己，就看撒娇的敬爱个胸襟看你凯里欧文掉休假日加速就够了打死结构；临时搭噶斯柯达</p>
+		<p>大亨年就是能够暗示经过为三不带卡金士顿安居客少年宫in阿斯达就看撒谎当阿卡丽客观看了阿拉丁卡看帅哥自己二聚哈UI规划为偶滴噢诶过个iOS卡代购偶尔股票UI二鞠躬局阿苏而过</p>
+
+	</body>
+
+</html>
